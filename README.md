@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="https://github.com/yorman-lopez"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Yorman&description=¡Hola!,%20Soy%20Yorman.%20me%20gusta%20escuchar%20musica%20y%20aprender%20cosas%20nuevas.%20saludos.%20☺️&image=https://e1.pxfuel.com/desktop-wallpaper/304/770/desktop-wallpaper-%E2%9D%85-haru-yoshida-%E2%9D%85-yoshida-haru.jpg&backgroundColor=%23ecf0f1&instagram=@yorman.lopez&pattern=ticTacToe&colorPattern=%23eaeaea&site=🖥️%20Aprender%20a%20programar.%20%20%7C%20%20📷%20Fotografia.%20%20%7C%20%20🎮%20Videojuegos"/></a>
+<a href="https://github.com/yorman-lopez"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Yorman&description=¡Hola!,%20Soy%20Yorman.%20me%20gusta%20escuchar%20musica%20y%20aprender%20cosas%20nuevas.%20saludos.%20☺️&image=https://www.nautiljon.com/images/perso/00/83/yoshida_haru_9038.webp&backgroundColor=%23ecf0f1&instagram=@yorman.lopez&pattern=ticTacToe&colorPattern=%23eaeaea&site=🖥️%20Aprender%20a%20programar.%20%20%7C%20%20📷%20Fotografia.%20%20%7C%20%20🎮%20Videojuegos"/></a>
 
 </p>
 
