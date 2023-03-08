@@ -29,16 +29,16 @@ pero no pasa nada. Aprendamos juntos. 🤗
 
 ---
 
-**MI REDES SOCIALES 😃** 
+**😃 MIS REDES SOCIALES** <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
 
  <p align="hihg">   
 
-<a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+<img src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logosu.png" height="30px"> <a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
 
 
 
 
 
-
+ 
 
 
