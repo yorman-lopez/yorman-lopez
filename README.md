@@ -1,16 +1,44 @@
 ### Hi there 👋
 
-<!--
-**yorman-lopez/yorman-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=¡HOLA!+¿como estas?;Bievenido+a+mi+perfil" alt="Typing SVG" /></a>    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<a href="https://github.com/yorman-lopez"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Yorman&description=¡Hola!,%20Soy%20Yorman.%20me%20gusta%20escuchar%20musica%20y%20aprender%20cosas%20nuevas.%20saludos.%20☺️&image=https://i.ibb.co/XS694VV/peakpx.jpg&backgroundColor=%23ecf0f1&instagram=@yorman.lopez&pattern=ticTacToe&colorPattern=%23eaeaea&site=🖥️%20Aprender%20a%20programar.%20%20%7C%20%20📷%20Fotografia.%20%20%7C%20%20🎮%20Videojuegos"/></a>
+
+</p>
+
+---
+
+```text
+
+Soy un novato en esto de los códigos y reconozco que esto no será una tarea fácil
+pero no pasa nada. Aprendamos juntos. 🤗
+
+``` 
+
+--- 
+
+  
+
+[![](https://pa1.narvii.com/6513/9428ed927ea6a6c92c8d926ba551b606c7c59d33_hq.gif)](#)
+
+ 
+
+---
+
+**MI REDES SOCIALES 😃** 
+
+ <p align="hihg">   
+
+<a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+
+
+
+
+
+
+
+
