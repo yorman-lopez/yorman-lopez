@@ -30,7 +30,7 @@ Aprendamos juntos. 🤗
 
 ---
 
-**😃 MIS REDES SOCIALES** <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+**ㅤㅤ😃 MIS REDES SOCIALES** <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
 
  <p align="hihg">   
 
