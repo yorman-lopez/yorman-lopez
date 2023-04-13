@@ -14,7 +14,7 @@
 
 ```text
 
-Soy un novato en esto de los códigos y reconozco que
+Soy novato en esto de los códigos y reconozco que
 esto no será una tarea fácil, pero no pasa nada
 Aprendamos juntos. 🤗
 
