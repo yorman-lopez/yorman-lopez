@@ -21,7 +21,7 @@ Aprendamos juntos. 🤗
 
 **😃 SIGÁMONOS 🤝** <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"> 
 
-<a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://i.pinimg.com/originals/4e/c0/73/4ec0737ce90ebb69f4f0132df3c708db.gif" height="32px">
+<a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://s3.ezgif.com/tmp/ezgif-3b9779e1279f5b.gif" height="32px">
 
 ---
 **⚒️ Tecnologías que estoy aprendiendo**
