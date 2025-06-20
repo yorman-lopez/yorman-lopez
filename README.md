@@ -18,10 +18,14 @@ Aprendamos juntos. 🤗
 <img align="center" src="https://pa1.narvii.com/6513/9428ed927ea6a6c92c8d926ba551b606c7c59d33_hq.gif" alt="Yorman.gif" />
 </a>
 
----
 
-**ㅤㅤ😃 SIGÁMONOS 🤝** <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"> 
+**😃 SIGÁMONOS 🤝** <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"> 
 
 <a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+
+---
+**⚒️ Tecnologías que estoy aprendiendo**
+
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff">
 
 </div>
