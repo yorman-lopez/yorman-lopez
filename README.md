@@ -24,9 +24,9 @@ Aprendamos juntos. 🤗
  
 <a href="https://instagram.com/yorman.lopez" target="_blank"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a> &nbsp;&nbsp;
+</a>
 <a href="https://www.instagram.com/yorman.lopez">
-  <img src="https://i.pinimg.com/originals/b8/8e/f7/b88ef7e91e6e9f61202ae26159d34148.gif" height="32px">
+  <img src="https://i.pinimg.com/originals/b8/8e/f7/b88ef7e91e6e9f61202ae26159d34148.gif" height="32px" style="margin-left:15px;">
 </a>
 
 ---
