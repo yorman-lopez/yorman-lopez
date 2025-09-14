@@ -18,10 +18,11 @@ Aprendamos juntos. 🤗
 <img align="center" src="https://pa1.narvii.com/6513/9428ed927ea6a6c92c8d926ba551b606c7c59d33_hq.gif" alt="Yorman.gif" />
 </a>
 
+<br><br>
 
- **😃 SIGÁMONOS 🤝** <img src="https://i.pinimg.com/originals/b8/8e/f7/b88ef7e91e6e9f61202ae26159d34148.gif" height="32px"> 
+ **😃 SIGÁMONOS 🤝**
  
-<a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/yorman.lopez"><img src="https://i.pinimg.com/originals/4e/c0/73/4ec0737ce90ebb69f4f0132df3c708db.gif" height="32px"></a>
+<a href="https://instagram.com/yorman.lopez" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> nbsp;&nbsp; <a href="https://www.instagram.com/yorman.lopez"><img src="https://i.pinimg.com/originals/b8/8e/f7/b88ef7e91e6e9f61202ae26159d34148.gif" height="32px"></a>
 
 ---
 **⚒️ Tecnologías que estoy aprendiendo**
